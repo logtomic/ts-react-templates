@@ -1,0 +1,7 @@
+basic-routing/node_modules
+basic-routing/.DS_Store
+basic-routing/dist
+basic-routing/dist-ssr
+basic-routing/*.local
+basic-routing/node_modules/*
+basic-routing/package-lock.json
